@@ -1,8 +1,11 @@
-# Healthcare Analysis
-A hospital analysis project done using SQL to uncover the day to day hospital encounters and patterns. (still in progress)
+# 🏥 Healthcare Data Analysis (SQL Project)
 
----
+A data analysis project exploring hospital operations and patient trends using SQL.
+The project investigates daily hospital encounters to uncover insights on admissions, readmissions, length of stay, costs, and insurance coverage.
+*(Project currently in progress)*
+
 ## Project Overview
+This project analyzes hospital data spanning 2011–2022, focusing on trends in patient admissions, readmissions, length of stay, treatment costs, and insurance coverage. The goal is to derive actionable insights that can support better hospital management and decision-making.
 
 ---
 ## Objectives
