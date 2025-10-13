@@ -9,9 +9,9 @@ This project analyzes hospital data spanning 2011–2022, focusing on trends in 
 
 ---
 ## Objectives
-1. Encounters overview - Assessing encounters in a given period of time 
-2. Cost and coverage insights - Average cost of given procedures and the how much the insurance can cover
-3. Patient behaviour analysis - Unique patients readmitted over time and how long each of them has stayed at the facility
+📋 **Encounters overview** - Assessing encounters in a given period of time.<br> 
+💳 **Cost and coverage insights** - Average cost of given procedures and the how much the insurance can cover.<br>
+🧍‍♀️ **Patient behaviour analysis** - Unique patients readmitted over time and how long each of them has stayed at the facility.<br>
 
 ---
 ## Tables
