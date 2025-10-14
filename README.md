@@ -9,6 +9,8 @@ Hospital readmissions are a critical metric in evaluating healthcare quality, re
 
 By combining patient-level encounter data with procedure records, this analysis aims to identify trends, highlight high-risk patient groups, and provide actionable recommendations for reducing readmissions, supporting decision-making and improving healthcare delivery.
 
+Original datasets used in this project can be found [here](https://mavenanalytics.io/data-playground/hospital-patient-records).
+
 ---
 ## Objectives
 📋 **Encounters overview** - Assessing encounters in a given period of time.<br> 
