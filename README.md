@@ -1,11 +1,13 @@
-# 🩺Healthcare Data Analysis (SQL Project)
-
-A data analysis project exploring hospital operations and patient trends using SQL.
-The project investigates daily hospital encounters to uncover insights on admissions, readmissions, length of stay, costs, and insurance coverage.
-<br>*(Project currently in progress)*
+<h1 align="middle">🩺 Healthcare Data Analysis (SQL Project)</h1>
 
 ## Project Overview
-This project analyzes hospital data spanning 2011–2022, focusing on trends in patient admissions, readmissions, length of stay, treatment costs, and insurance coverage. The goal is to derive actionable insights that can support better hospital management and decision-making.
+Hospital readmissions are a critical metric in evaluating healthcare quality, resource utilization, and patient outcomes. Frequent or short-interval readmissions often indicate gaps in post-discharge care, chronic or recurring conditions, or inefficiencies in treatment pathways. Understanding patterns in patient encounters, procedures, and readmissions can help healthcare providers improve continuity of care, optimize resource allocation, and enhance patient satisfaction.
+<br>This project focuses on analyzing hospital encounter and procedure data between **2011 - 2022** to answer key questions:
+- Which patients experience readmissions within 30 days of a prior discharge?
+- Who are the most frequently readmitted patients, and what procedures are associated with their care?
+- What insights can be drawn from the procedures and readmission patterns to improve patient care and hospital efficiency?
+
+By combining patient-level encounter data with procedure records, this analysis aims to identify trends, highlight high-risk patient groups, and provide actionable recommendations for reducing readmissions, supporting decision-making and improving healthcare delivery.
 
 ---
 ## Objectives
@@ -14,12 +16,18 @@ This project analyzes hospital data spanning 2011–2022, focusing on trends in 
 🧍‍♀️ **Patient behaviour analysis** - Unique patients readmitted over time and how long each of them has stayed at the facility.<br>
 
 ---
-## Tables
-- `encouters` - Patients encouters as they visit the hospital
-- `organizations` - hospital details
-- `patients` - patients demographic data
-- `payers` - insurance payer data
-- `procedures` - Patient procedure data including surgeries.
+## 🗂️Data Overview
+- `encounters` - Patients encouters as they visit the hospital (27,891 entries)
+- `organizations` - hospital details (1 entry)
+- `patients` - patients demographic data (973 entries)
+- `payers` - insurance payer data (10 entries)
+- `procedures` - Patient procedure data including surgeries (47,701 entries)
+
+---
+## 📊Key Findings
+- The analysis revealed important trends in hospital encounters and patient readmissions. Nearly **49% of encounters lacked payer coverage**, highlighting potential gaps in insurance access or billing processes.<br>
+- About **773 unique patients experienced over 17,000 readmissions within 30 days**, suggesting chronic conditions or inadequate follow-up care. Several patients showed high-frequency readmissions, often associated with repeated procedures such as anxiety and depression assessments, dialysis, and cardiovascular treatments — pointing to ongoing health management needs.
+- Overall, the results emphasize the importance of improved discharge planning, early intervention programs, and predictive monitoring to reduce preventable readmissions and enhance patient outcomes
 
 ---
 ## Tools used
