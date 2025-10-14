@@ -1,3 +1,0 @@
-git add .gitattributes
-git commit -m "Force SQL detection for Linguist"
-git push
