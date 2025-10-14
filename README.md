@@ -31,7 +31,9 @@ Original datasets used in this project can be found [here](https://mavenanalytic
 - The analysis revealed important trends in hospital encounters and patient readmissions. Nearly **49% of encounters lacked payer coverage**, highlighting potential gaps in insurance access or billing processes.<br>
 - About **773 unique patients experienced over 17,000 readmissions within 30 days**, suggesting chronic conditions or inadequate follow-up care. Several patients showed high-frequency readmissions, often associated with repeated procedures such as anxiety and depression assessments, dialysis, and cardiovascular treatments — pointing to ongoing health management needs.
 - Overall, the results emphasize the importance of improved discharge planning, early intervention programs, and predictive monitoring to reduce preventable readmissions and enhance patient outcomes
-
+The full analysis of how I approached this project can be found [here](https://github.com/Lilian-Waitiki/Healthcare-Analysis/blob/main/Analysis.ipynb) 
 ---
-## Tools used
-MySQL, Jupyter Notebooks
+## 🛠️Tools used
+- MySQL 
+- MsExcel 
+- Jupyter Notebooks
