@@ -36,6 +36,7 @@ For a detailed walkthrough of the analysis, key insights, and final recommendati
 
 ---
 ## 🛠️Tools used
-- MySQL 
-- MsExcel 
-- Jupyter Notebooks
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?logo=mysql)
+![Jupyter](https://img.shields.io/badge/Jupyter-Documentation-orange?logo=jupyter)
+![MsExcel](https://img.shields.io/badge/Excel-Data%20Validation-217346?logo=microsoftexcel&logoColor=white)
+
